@@ -1,0 +1,7 @@
+# > Fast
+host-suffix,fast.com,Speedtest
+
+# > Speedtest by Ookla
+user-agent,SpeedTest*,Speedtest
+host-keyword,speedtest,Speedtest
+host-suffix,ooklaserver.net,Speedtest
